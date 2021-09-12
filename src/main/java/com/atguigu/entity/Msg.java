@@ -7,6 +7,7 @@ public class Msg {
     //100 成功  200 失败
     private int code;
 
+    //处理信息
     private String msg;
 
     //用户要返回给浏览器的数据
